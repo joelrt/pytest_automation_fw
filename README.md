@@ -1,4 +1,4 @@
-# WebDriverIO Project
+# Pytest Project
 
 This is a python, pytest project for execute a tests over Carnnival.com
 
