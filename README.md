@@ -60,7 +60,3 @@ The primary files and directories are organized as follows:
 ├── settings.py
 └── README.md
 ```
-
-## Result record example
-
-https://drive.google.com/file/d/1o_Ag6iJcrzKHHqbJTPbYHLG_7mvDriWE/view?usp=sharing
